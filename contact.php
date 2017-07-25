@@ -10,16 +10,7 @@
 
 <body>
 
-  <header id="masthead">
-    <div class="container">
-      <a href="index.html" id="logo">Your Name</a>
-      <nav>
-        <a href="index.html">About</a>
-        <a href="portfolio.html">Portfolio</a>
-        <a href="contact.html">Contact</a>
-      </nav>
-    </div>
-  </header>
+  <?php require "include/header.php" ?>
 
   <div id="main-container" class="container">
     <section class="main-section">
@@ -45,22 +36,12 @@
 
     </section>
 
-    <section class="sidebar">
-      <div id="connect">
-        <h2>Connect with Me</h2>
-
-        <a href="#"><img src="assets/images/github-128.png" class="social" alt="GitHub" /></a>
-        <a href="#"><img src="assets/images/linkedin-128.png" class="social" alt="LinkedIn" /></a>
-        <a href="#"><img src="assets/images/stackoverflow-128.png" class="social" alt="Stack Overflow" /></a>
-      </div>
-    </section>
+    <?php require "include/sidebar.php" ?>
+    
   </div>
 
-  <footer>
-    <div class="container">
-      Copyright &copy; 2016 Your Name
-    </div>
-  </footer>
+  <?php require "include/footer.php" ?>
+
 </body>
 
 </html>
