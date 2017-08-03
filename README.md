@@ -6,6 +6,6 @@ Showing CSS skills
 
 ![alt text](https://github.com/JohnnyD4/Responsive-Portfolio/blob/master/Screen%20Shot%202017-08-02%20at%208.53.17%20PM.png)
 
-![alt text]()
+![alt text](https://github.com/JohnnyD4/Responsive-Portfolio/blob/master/Screen%20Shot%202017-08-02%20at%208.53.55%20PM.png)
 
-![alt text]()
+![alt text](https://github.com/JohnnyD4/Responsive-Portfolio/blob/master/Screen%20Shot%202017-08-02%20at%208.54.29%20PM.png)
